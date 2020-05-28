@@ -1,5 +1,5 @@
 # Light Switch
-###### A React && Redux small project
+###### A small project with React JS && Redux 
 
 
 ![Image ON](https://github.com/filipamarta/light-switch-redux/blob/master/src/img/capa_behance_light-switch-on.png)
